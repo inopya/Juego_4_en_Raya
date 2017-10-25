@@ -7,5 +7,6 @@ Versión 2.0 Fecha: 21/07/2015
 NOTA SOBRE ESTA VERSION:
 
 - Pequeño programa en TK que muestra un tablero de juego apra 4 en raya y dos jugadores
-  Humano-Humano. No contiene ningun tipo de 'inteligencia'. Si marca la jugada ganadora
+  Humano-Humano. No contiene ningun tipo de 'inteligencia'. Sí marca la jugada ganadora
+  
   Es mas un ejecicio que otra cosa.
